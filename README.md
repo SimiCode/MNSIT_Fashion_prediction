@@ -10,6 +10,15 @@
 - its accuracy is how many labels it predicts correctly out of the total
 
 
+**Getting started**
+- Install pytorch using this official guide: https://pytorch.org/get-started/locally/
+- Install Jupyter using this guide: https://jupyter.readthedocs.io/en/latest/install.html
+- Open Terminal
+- Run: `git clone https://github.com/SimiCode/MNSIT_Fashion_prediction.git`
+- `cd` into cloned folder
+- Run: `jupyter notebook`
+- Selct Notebook and GO
+
 Here are some of the images from the dataset we’ll be using to the train the network:
 ![Training data](https://cdn-images-1.medium.com/max/800/1*GLzztrL9GinZLuAzlhU8Fw.png)
 
