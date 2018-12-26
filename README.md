@@ -1,7 +1,8 @@
 ## Training Convolutional Neural Networks to Categorize Clothing with PyTorch
 
+
 # For my mom, this is how it works
-- We teach the Machine learning model using labeled images
+- We teach the computer using labeled images
 - we teach it how a shoe looks like, a sandal, a tee and so on
 - this is our model
 - We then test our model by making it give us labels for unlabeled images
