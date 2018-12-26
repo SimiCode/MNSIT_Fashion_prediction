@@ -18,7 +18,7 @@ Here are some of the images from the dataset we’ll be using to the train the n
 The neural network should achieve an accuracy from 88%–90%, which is quite good compared to the 91.6% benchmark of 2-layered CNNs on the MNIST-Fashion dataset. Note that the MNIST-Fashion dataset is much harder to train on than the original MNIST-digit dataset. If we want to achieve a higher accuracy, we would have to add more layers, preprocess the data more to normalize it better, and increase the number of epochs.
 
 
-Here’s some predictions made by the neural network:
+Here’s some predictions made by the neural network: As you can see, the last prediction is wrong (such wrong predictions are what cause our accuracy to reduce).
 ![Predictions](https://cdn-images-1.medium.com/max/800/1*7vrz-IiO9C4rE5R0GQl7sA.png)
 
 
