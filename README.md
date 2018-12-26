@@ -5,7 +5,7 @@
 - We teach the computer using labeled images
 - we teach it how a shoe looks like, a sandal, a tee and so on
 - this is our model
-- We then test our model by making it give us labels for unlabeled images
+- We then test our model by making it predict labels of unlabeled images (our test dataset)
 - we rank it's accuracy using labels that had been assigned to the test images manually
 - its accuracy is how many labels it predicts correctly out of the total
 
