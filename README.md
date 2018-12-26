@@ -31,5 +31,6 @@ Here’s some predictions made by the neural network: As you can see, the last p
 ![Predictions](https://cdn-images-1.medium.com/max/800/1*7vrz-IiO9C4rE5R0GQl7sA.png)
 
 
-**Inspiration:** https://towardsdatascience.com/training-convolutional-neural-networks-to-categorize-clothing-with-pytorch-30b6d399f05f by Albert Lai
+**Inspiration:** 
+- Medium Article: https://towardsdatascience.com/training-convolutional-neural-networks-to-categorize-clothing-with-pytorch-30b6d399f05f by Albert Lai
 - Kaggle Challenge: https://www.kaggle.com/ishvindersethi22/fashion-mnist-using-pytorch/data
